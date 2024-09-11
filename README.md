@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 
 1. **拉取代码**
    ```bash
-   git clone https://www.codewithgpu.com/i/Kedreamix/Linly-Talker/Kedreamix-Linly-Talker
+   git clone https://github.com/xaio6/Digital_Human_API
    ```
 
 2. **创建环境**
