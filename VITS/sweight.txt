@@ -1,0 +1,1 @@
+VITS/SoVITS_weights/man.pth

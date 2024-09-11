@@ -1,0 +1,7 @@
+GPT_model_path : 'VITS/GPT_weights/man.ckpt'
+SoVITS_model_path : 'VITS/SoVITS_weights/man.pth'
+
+top_k : 5
+top_p : 1
+temperature : 1
+ref_free : False

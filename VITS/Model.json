@@ -1,0 +1,15 @@
+{
+    "0":{
+        "GPT_model_path" : "VITS/GPT_weights/man.ckpt",
+        "SoVITS_model_path" : "VITS/SoVITS_weights/man.pth",
+        "Ref_Wav" : "VITS/Ref_Wav/Man.WAV",
+        "Ref_Text" : "我制作了一站式的整合包，从训练到推理都可以零门槛上手使用"
+    },
+    
+    "1":{
+        "GPT_model_path" : "VITS/GPT_weights/Girl.ckpt",
+        "SoVITS_model_path" : "VITS/SoVITS_weights/Girl.pth",
+        "Ref_Wav" : "VITS/Ref_Wav/Girl.WAV",
+        "Ref_Text" : "汗流浃背，汗流浃背啊，我说我说我说能说的吧"
+    }
+}
