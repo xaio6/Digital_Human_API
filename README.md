@@ -46,7 +46,10 @@
 
 ### 数字人视频生成效果
 
-<video src="docs/video.mp4"></video>
+<video width="5020" height="440" controls>
+  <source src="docs/video.mp4" type="video/mp4">
+  您的浏览器不支持 HTML5 video 标签。
+</video>
 
 
 ## 开始使用
