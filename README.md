@@ -23,7 +23,7 @@
 - **开源发布，加入 VITS 的语音训练模块。**
 - **令人兴奋的消息！我们将该项目全套开源🔥🔥🔥**
 - **把VITS的语音训练模块加入其中，能够通过微调一分钟对应人的语料进行克隆。**
-- **该仓库主要开源`Digital_Human_API`，如需参考我们开发的应用程序可以参考`Digital_Human_UI`**
+- **该仓库主要开源`Digital_Human_API`，如需参考我们开发的应用程序可以参考[Digital_Human_UI](https://github.com/xaio6/Digital_Human_UI)**
 
 > [!IMPORTANT]
 >
@@ -141,7 +141,7 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 
 
 ## API 说明
-该仓库代码主要是用Flask构建的python后端代码，当启动server.py后，开启的是后端服务，因此，如果需要使用该项目，可以自己搭建一个UI界面或者程序来调用API，当然，你也可以采用我们团队开发的winform界面，可以参考：[Digital_Human_UI]()
+该仓库代码主要是用Flask构建的python后端代码，当启动server.py后，开启的是后端服务，因此，如果需要使用该项目，可以自己搭建一个UI界面或者程序来调用API，当然，你也可以采用我们团队开发的winform界面，可以参考：[Digital_Human_UI](https://github.com/xaio6/Digital_Human_UI)
 <details>
 <summary>接口</summary>
 
@@ -420,20 +420,20 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 </details>
 
 ## 使用注意事项
-⚠️⚠️**客户端程序如果是在windows上使用，则一定要用`PowerPoint`制作的PPT,如果使用`WPS`制作的PPT该API就不能正常工作了**⚠️⚠️
+⚠️⚠️**如果是使用我们的[Digital_Human_UI](https://github.com/xaio6/Digital_Human_UI)，则一定要用`PowerPoint`制作的PPT,如果使用`WPS`制作的PPT该API就不能正常工作了**⚠️⚠️
 
 该项目可能存在一些视频生成失败的结果，这就需要外部进行协调来降低这个可能，因此，如果出现了视频生成失败，非常欢迎大家提出建议，激励我们不断优化该项目。
 
 **PPT制作要求：**
 - **视频和GIF动画的兼容性说明： 在你的PPT内容中，如果包含视频或GIF动画，请注意，通过本该项目转换生成的授课视频目前不支持这些媒体文件的播放功能。因此，建议PPT内容中不加入视频或GIF动画。**
 
-- **页面过渡动画的设置： 为了使你的PPT演示更加流畅和，我们建议在每一页幻灯片之间`添加过渡动画，切换时间为2秒`,（可保留动画窗格）这样通过本软件生成会效果会更好。（`建议选择平滑`）**
+- **页面过渡动画的设置： 为了使你的PPT演示更加流畅和，我们建议在每一页幻灯片之间`添加过渡动画，切换时间为2秒`,（可保留动画窗格）这样生成会效果会更好。（`建议选择平滑`）**
 ![img](docs/image1.png)
 
 - **幻灯片右下角的空白区域： 在设计PPT时，请在每张幻灯片的右下角预留一个空白区域，用于展示数字人，大概范围可参考下图。**
 ![img](docs/image2.png)
 
-- **PPT批注内容：需要在对一页都写上对应的讲稿（批注），该系统会自动获取批注内容做为该页的演讲内容，一页ppt只能有一个批注。（同时也可以把讲稿写到一份word里面发给我们）**
+- **PPT批注内容：需要在对一页都写上对应的讲稿（批注），该系统会自动获取批注内容做为该页的演讲内容，一页ppt只能有一个批注。**
 ![img](docs/image3.png)
 
 **声音训练需求：**
@@ -449,6 +449,10 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 **感谢开源贡献，我借鉴了当前开源的语音克隆模型 GPT-SoVITS，效果是相当不错，当然，我也把一些训练好的权重放在了百度云盘里面，可以用于参考使用。**
 
 `GPT-SoVITS` ：**https://github.com/RVC-Boss/GPT-SoVITS**
+
+**该项目对应的应用程序，用于参考跟快速生成数字人授课视频**
+
+`Digital_Human_API` : **https://github.com/xaio6/Digital_Human_UI**
 
 ## 许可协议
 本项目遵循 MIT Licence。在使用本工具时，请遵守相关法律，包括版权法、数据保护法和隐私法。未经原作者和/或版权所有者许可，请勿使用本工具。未经原作者和/或版权所有者许可，请勿使用本工具。此外，请确保遵守您参考的模型和组件中的所有许可协议。
