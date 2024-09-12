@@ -420,7 +420,7 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 </details>
 
 ## 使用注意事项
-⚠️⚠️在windows上使用一定要用'PowerPoint',如果使用WPS该程序就不能正常工作了⚠️⚠️
+⚠️⚠️**在windows上使用一定要用`PowerPoint`,如果使用WPS该程序就不能正常工作了**⚠️⚠️
 
 该项目可能存在一些视频生成失败的结果，这就需要外部进行协调来降低这个可能，因此，如果出现了视频生成失败，非常欢迎大家提出建议，激励我们不断优化该项目。
 
