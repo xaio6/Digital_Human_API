@@ -53,6 +53,7 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 ## 开始使用
 
 ### 环境搭建
+>⚠️显存最低需要`6G`⚠️
 
 1. **拉取代码**
    ```bash
