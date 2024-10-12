@@ -144,7 +144,7 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 ## API 说明
 该仓库代码主要是用Flask构建的python后端代码，当启动server.py后，开启的是后端服务，因此，如果需要使用该项目，可以自己搭建一个UI界面或者程序来调用API，当然，你也可以采用我们团队开发的winform界面，可以参考：[Digital_Human_UI](https://github.com/xaio6/Digital_Human_UI)
 <details>
-<summary>接口</summary>
+<summary>Flask接口</summary>
 
 ## 1. 登录
 - **接口**: `/Login`
