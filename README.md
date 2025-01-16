@@ -641,6 +641,10 @@ https://github.com/user-attachments/assets/468079d6-8adc-4e3e-9f82-2a54568b35cc
 
 `SadTalker：` **https://github.com/OpenTalker/SadTalker**
 
+**数字人动作生成使用的是Wav2Lip。**
+
+`Wav2Lip：` **https://github.com/Rudrabha/Wav2Lip**
+
 **感谢开源贡献，我借鉴了当前开源的语音克隆模型 GPT-SoVITS，效果是相当不错，当然，我也把一些训练好的权重放在了百度云盘里面，可以用于参考使用。**
 
 `GPT-SoVITS` ：**https://github.com/RVC-Boss/GPT-SoVITS**
