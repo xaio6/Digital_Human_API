@@ -1,0 +1,32 @@
+
+ref_eyeblink: null
+ref_pose: null
+checkpoint_dir: 'SadTalker/checkpoints'
+result_dir: 'SadTalker/results'
+pose_style: 0
+batch_size: 2
+size: 256
+expression_scale: 1.0
+input_yaw: null
+input_pitch: null
+input_roll: null
+enhancer: 'gfpgan'
+background_enhancer: null
+cpu: false
+face3dvis: false
+still: true
+preprocess: 'full'
+verbose: false
+old_version: false
+
+net_recon: 'resnet50'
+init_path: null
+use_last_fc: false
+bfm_folder: 'SadTalker/checkpoints/BFM_Fitting/'
+bfm_model: 'BFM_model_front.mat'
+
+focal: 1015.0
+center: 112.0
+camera_d: 10.0
+z_near: 5.0
+z_far: 15.0
