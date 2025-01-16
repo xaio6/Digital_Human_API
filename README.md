@@ -62,6 +62,7 @@ https://github.com/user-attachments/assets/3f279fea-457c-45d8-90c3-ddd602cc5b46
 
 - **带动作**
 
+https://github.com/user-attachments/assets/468079d6-8adc-4e3e-9f82-2a54568b35cc
 
 
 ## 开始使用
