@@ -1,0 +1,21 @@
+checkpoint_path : 'Easy_Wav2Lip/checkpoints/Wav2Lip.pth'
+segmentation_path : 'Easy_Wav2Lip/checkpoints/face_segmentation.pth'
+static : False
+fps : 25.0
+pads : [0, 10, 0, 0]
+wav2lip_batch_size : 1
+out_height : 1920
+crop : [0, -1, 0, -1]
+box : [-1, -1, -1, -1]
+rotate : False
+nosmooth : True
+no_seg : False
+no_sr : False
+sr_model : "gfpgan"
+fullres : 1
+debug_mask : False
+preview_settings : False
+mouth_tracking : False
+mask_dilation : 2.5
+mask_feathering : 3
+quality : "Enhanced"

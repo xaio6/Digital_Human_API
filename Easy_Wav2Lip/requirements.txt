@@ -1,0 +1,14 @@
+#basicsr==1.4.2
+batch-face==1.4.0
+dlib==19.24.2
+#facexlib==0.3.0
+gdown==4.7.1
+#gfpgan==1.3.8
+#imageio-ffmpeg==0.4.9
+#importlib-metadata==6.8.0
+#ipython==8.16.1
+#librosa==0.10.1
+#moviepy==1.0.3
+#numpy==1.26.1
+#opencv-python==4.8.1.78
+#scipy==1.11.3
