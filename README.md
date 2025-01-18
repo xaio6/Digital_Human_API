@@ -164,21 +164,15 @@ https://github.com/user-attachments/assets/468079d6-8adc-4e3e-9f82-2a54568b35cc
 1. **创建实例**
 
 - [AutoDL实例创建](https://www.codewithgpu.com/i/xaio6/Digital_Human_API/Digital_Human_API)
-<div align="center">
-<img src="docs/image5.jpg"/><br>
-</div>
+![img](docs/image5.png)
 
 2. **运行项目**
 -  进入到`Digital_Human_API`文件夹下，运行`server1.4.0.py`即可
-<div align="center">
-<img src="docs/image6.jpg"/><br>
-</div>
+![img](docs/image6.png)
 
 3. **启动代理**
 - 打开AutoDL提供的桌面工具，按照提示填入ssh指令跟ssh密码。
-<div align="center">
-<img src="docs/image7.jpg"/><br>
-</div>
+![img](docs/image7.png)
 
 ## API 说明
 该仓库代码主要是用Flask构建的python后端代码，当启动server.py后，开启的是后端服务，因此，如果需要使用该项目，可以自己搭建一个UI界面或者程序来调用API，当然，你也可以采用我们团队开发的winform界面，可以参考：[Digital_Human_UI](https://github.com/xaio6/Digital_Human_UI)
