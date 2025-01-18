@@ -168,10 +168,11 @@ https://github.com/user-attachments/assets/468079d6-8adc-4e3e-9f82-2a54568b35cc
 
 2. **运行项目**
 -  进入到`Digital_Human_API`文件夹下，运行`server1.4.0.py`即可
-![img](docs/image6.png)
+![img](docs/image8.png)
 
 3. **启动代理**
 - 打开AutoDL提供的桌面工具，按照提示填入ssh指令跟ssh密码。
+![img](docs/image6.png)
 ![img](docs/image7.png)
 
 ## API 说明
