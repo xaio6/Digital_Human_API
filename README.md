@@ -165,19 +165,19 @@ https://github.com/user-attachments/assets/468079d6-8adc-4e3e-9f82-2a54568b35cc
 
 - [AutoDL实例创建](https://www.codewithgpu.com/i/xaio6/Digital_Human_API/Digital_Human_API)
 <div align="center">
-<img src="docs/Logo.jpg"/><br>
+<img src="docs/image5.jpg"/><br>
 </div>
 
 2. **运行项目**
 -  进入到`Digital_Human_API`文件夹下，运行`server1.4.0.py`即可
 <div align="center">
-<img src="docs/Logo.jpg"/><br>
+<img src="docs/image6.jpg"/><br>
 </div>
 
 3. **启动代理**
 - 打开AutoDL提供的桌面工具，按照提示填入ssh指令跟ssh密码。
 <div align="center">
-<img src="docs/Logo.jpg"/><br>
+<img src="docs/image7.jpg"/><br>
 </div>
 
 ## API 说明
