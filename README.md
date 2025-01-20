@@ -99,9 +99,8 @@ https://github.com/user-attachments/assets/468079d6-8adc-4e3e-9f82-2a54568b35cc
 - **这一步安装过程可能耗时会比较长，可能存在会一些依赖冲突的问题，但是也不会出现太多bug，但是为了更好更方便的安装，可以对冲突的依赖单独安装。**
    ```bash
     # 安装项目依赖
-    pip install -r requirements_1.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+    pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-    pip install -r requirements_2.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
     ```
     
 >⚠️注意在window上，ffmpeg安装可以参考这篇
